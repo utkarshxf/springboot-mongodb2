@@ -1,4 +1,4 @@
-# 📦 Spring Boot + MongoDB Example
+# 📦 Spring Boot + MongoDB 
 
 A simple **Spring Boot** project integrated with **MongoDB** for CRUD operations.  
 This repository demonstrates how to build a REST API using Spring Boot and MongoDB.
@@ -19,19 +19,6 @@ This repository demonstrates how to build a REST API using Spring Boot and Mongo
 - **Spring Boot**
 - **MongoDB**
 - **Maven / Gradle**
-
----
-
-## 📂 Project Structure
-springboot-mongodb2/
-┣ 📂 src/main/java/com/example/demo
-┃ ┣ 📂 controller # REST Controllers
-┃ ┣ 📂 model # Data Models
-┃ ┣ 📂 repository # Mongo Repositories
-┃ ┗ 📂 service # Business Logic
-┣ 📂 src/main/resources
-┃ ┗ application.properties
-┗ pom.xml
 
 ---
 
